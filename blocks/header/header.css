@@ -2,7 +2,6 @@
   display: flex;
   justify-content: space-between;
   max-width: 1184px;
-  max-height: 52px;
   font-family: 'Inter', 'Arial', sans-serif;
   box-sizing: content-box;
   margin: 0 auto;
@@ -22,6 +21,5 @@
   .header {
     max-width: 288px;
     padding-top: 16px;
-    max-height: 42px;
   }
 }
