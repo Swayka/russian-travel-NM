@@ -1,3 +1,6 @@
 .header__list-item {
   margin: 18px 0 6px 18px;
 }
+.header__list-item:first-child {
+  margin: 18px 0 6px 0;
+}
